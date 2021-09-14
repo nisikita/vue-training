@@ -46,7 +46,7 @@
             <v-col cols="3"><p class="mt-5">合計: 円</p></v-col>
           </v-row>
         </v-form>
-        <p class="mt-5">3種類の果物の合計金額は: 円</p>
+        <p class="mt-5">3種類のお肉の合計金額は: 円</p>
       </v-container>
     </v-card>
     <v-row>
